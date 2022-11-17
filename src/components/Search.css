@@ -1,0 +1,6 @@
+import background from '../assets/restaurant.webp';
+
+.container{
+    background-image: 'url(${background})';
+    width: 100px
+}
